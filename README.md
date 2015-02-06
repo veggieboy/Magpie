@@ -7,7 +7,8 @@ A Natural Language Processing (NLP) lab
 - Create a pull request to submit your updated code after working through all 5 activities
 
 ## Chat Bots
-https://sites.google.com/site/webtoolsbox/bots
+- https://sites.google.com/site/webtoolsbox/bots
+- http://nlp-addiction.com/chatbot/
 
 ## JAVA API
 API, an abbreviation of application program interface, is a set of routines, protocols, and tools for building software applications. 
